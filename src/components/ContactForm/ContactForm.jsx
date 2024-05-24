@@ -90,7 +90,7 @@ const ContactForm = () => {
 
         </div>
         <div className={styles.contact_image}>
-            <img src="/images/contact.svg" alt="contact image" srcset="" />
+        <img src="public\images\contact.svg" alt="contact image" srcset="" />
         </div>
     </section>
   )
